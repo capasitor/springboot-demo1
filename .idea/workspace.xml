@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3b0f667-f25c-4281-837b-17e4c277848f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/h2.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,14 +107,22 @@
       <option name="project" value="LOCAL" />
       <updated>1583485689589</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="push heroku postgres">
+      <created>1583488973968</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1583488973968</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="push pertama" />
     <MESSAGE value="push kedua" />
     <MESSAGE value="push heroku" />
-    <option name="LAST_COMMIT_MESSAGE" value="push heroku" />
+    <MESSAGE value="push heroku postgres" />
+    <option name="LAST_COMMIT_MESSAGE" value="push heroku postgres" />
   </component>
   <component name="WindowStateProjectService">
     <state x="127" y="73" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582865220550">
@@ -127,31 +133,31 @@
       <screen x="43" y="23" width="1237" height="777" />
     </state>
     <state x="475" y="134" key="#com.intellij.ide.util.MemberChooser/43.23.1237.777@43.23.1237.777" timestamp="1583479960437" />
-    <state x="170" y="23" width="733" height="777" key="CommitChangelistDialog2" timestamp="1583485689386">
+    <state x="170" y="23" width="733" height="777" key="CommitChangelistDialog2" timestamp="1583488973660">
       <screen x="43" y="23" width="1237" height="777" />
     </state>
     <state x="169" y="23" width="986" height="777" key="CommitChangelistDialog2/42.23.1238.777@42.23.1238.777" timestamp="1582861802563" />
-    <state x="170" y="23" width="733" height="777" key="CommitChangelistDialog2/43.23.1237.777@43.23.1237.777" timestamp="1583485689386" />
-    <state width="1193" height="259" key="GridCell.Tab.0.bottom" timestamp="1583484753007">
+    <state x="170" y="23" width="733" height="777" key="CommitChangelistDialog2/43.23.1237.777@43.23.1237.777" timestamp="1583488973660" />
+    <state width="1193" height="259" key="GridCell.Tab.0.bottom" timestamp="1583489080216">
       <screen x="43" y="23" width="1237" height="777" />
     </state>
-    <state width="1193" height="259" key="GridCell.Tab.0.bottom/43.23.1237.777@43.23.1237.777" timestamp="1583484753007" />
-    <state width="1193" height="259" key="GridCell.Tab.0.center" timestamp="1583484753003">
+    <state width="1193" height="259" key="GridCell.Tab.0.bottom/43.23.1237.777@43.23.1237.777" timestamp="1583489080216" />
+    <state width="1193" height="259" key="GridCell.Tab.0.center" timestamp="1583489080212">
       <screen x="43" y="23" width="1237" height="777" />
     </state>
-    <state width="1193" height="259" key="GridCell.Tab.0.center/43.23.1237.777@43.23.1237.777" timestamp="1583484753003" />
-    <state width="1193" height="259" key="GridCell.Tab.0.left" timestamp="1583484753002">
+    <state width="1193" height="259" key="GridCell.Tab.0.center/43.23.1237.777@43.23.1237.777" timestamp="1583489080212" />
+    <state width="1193" height="259" key="GridCell.Tab.0.left" timestamp="1583489080211">
       <screen x="43" y="23" width="1237" height="777" />
     </state>
-    <state width="1193" height="259" key="GridCell.Tab.0.left/43.23.1237.777@43.23.1237.777" timestamp="1583484753002" />
-    <state width="1193" height="259" key="GridCell.Tab.0.right" timestamp="1583484753004">
+    <state width="1193" height="259" key="GridCell.Tab.0.left/43.23.1237.777@43.23.1237.777" timestamp="1583489080211" />
+    <state width="1193" height="259" key="GridCell.Tab.0.right" timestamp="1583489080215">
       <screen x="43" y="23" width="1237" height="777" />
     </state>
-    <state width="1193" height="259" key="GridCell.Tab.0.right/43.23.1237.777@43.23.1237.777" timestamp="1583484753004" />
-    <state x="263" y="151" key="Vcs.Push.Dialog.v2" timestamp="1583485691721">
+    <state width="1193" height="259" key="GridCell.Tab.0.right/43.23.1237.777@43.23.1237.777" timestamp="1583489080215" />
+    <state x="263" y="151" key="Vcs.Push.Dialog.v2" timestamp="1583488977330">
       <screen x="43" y="23" width="1237" height="777" />
     </state>
     <state x="262" y="151" key="Vcs.Push.Dialog.v2/42.23.1238.777@42.23.1238.777" timestamp="1582861832425" />
-    <state x="263" y="151" key="Vcs.Push.Dialog.v2/43.23.1237.777@43.23.1237.777" timestamp="1583485691721" />
+    <state x="263" y="151" key="Vcs.Push.Dialog.v2/43.23.1237.777@43.23.1237.777" timestamp="1583488977330" />
   </component>
 </project>

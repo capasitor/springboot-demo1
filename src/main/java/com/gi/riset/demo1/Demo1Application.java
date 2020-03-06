@@ -14,7 +14,7 @@ public class Demo1Application {
 		SpringApplication.run(Demo1Application.class, args);
 	}
 
-	@Bean
+	//@Bean
 	public CommandLineRunner demo(CarRepository repository){
 		return (args) -> {
 			repository.save(new Car("Toyota","Kijang","Red","Diesel",2015));
