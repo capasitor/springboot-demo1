@@ -9,6 +9,7 @@ import java.util.Date;
 @RestController
 @RequestMapping("/")
 public class IndexController {
+
     @GetMapping
     public String index(){
         return "Helo World!<br>Cars REST API - "+new Date();

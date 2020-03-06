@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c3b0f667-f25c-4281-837b-17e4c277848f" name="Default Changelist" comment="push pertama">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/gi/riset/demo1/controller/IndexController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/gi/riset/demo1/domain/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/gi/riset/demo1/repository/CarRepository.java" afterDir="false" />
+    <list default="true" id="c3b0f667-f25c-4281-837b-17e4c277848f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gi/riset/demo1/controller/CarController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/gi/riset/demo1/Demo1Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gi/riset/demo1/Demo1Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/gi/riset/demo1/controller/IndexController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gi/riset/demo1/controller/IndexController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,46 +92,55 @@
       <option name="project" value="LOCAL" />
       <updated>1582861803194</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="push kedua">
+      <created>1583478670096</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1583478670096</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="push pertama" />
-    <option name="LAST_COMMIT_MESSAGE" value="push pertama" />
+    <MESSAGE value="push kedua" />
+    <option name="LAST_COMMIT_MESSAGE" value="push kedua" />
   </component>
   <component name="WindowStateProjectService">
     <state x="127" y="73" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582865220550">
       <screen x="43" y="23" width="1237" height="777" />
     </state>
     <state x="127" y="73" key="#com.intellij.execution.impl.EditConfigurationsDialog/43.23.1237.777@43.23.1237.777" timestamp="1582865220550" />
-    <state x="475" y="134" key="#com.intellij.ide.util.MemberChooser" timestamp="1582864788157">
+    <state x="475" y="134" key="#com.intellij.ide.util.MemberChooser" timestamp="1583479960437">
       <screen x="43" y="23" width="1237" height="777" />
     </state>
-    <state x="475" y="134" key="#com.intellij.ide.util.MemberChooser/43.23.1237.777@43.23.1237.777" timestamp="1582864788157" />
-    <state x="170" y="23" width="986" height="777" key="CommitChangelistDialog2" timestamp="1583478455786">
+    <state x="475" y="134" key="#com.intellij.ide.util.MemberChooser/43.23.1237.777@43.23.1237.777" timestamp="1583479960437" />
+    <state x="170" y="23" width="733" height="777" key="CommitChangelistDialog2" timestamp="1583478669744">
       <screen x="43" y="23" width="1237" height="777" />
     </state>
     <state x="169" y="23" width="986" height="777" key="CommitChangelistDialog2/42.23.1238.777@42.23.1238.777" timestamp="1582861802563" />
-    <state x="170" y="23" key="CommitChangelistDialog2/43.23.1237.777@43.23.1237.777" timestamp="1583478455786" />
-    <state width="1193" height="259" key="GridCell.Tab.0.bottom" timestamp="1582868749762">
+    <state x="170" y="23" width="733" height="777" key="CommitChangelistDialog2/43.23.1237.777@43.23.1237.777" timestamp="1583478669744" />
+    <state width="1193" height="259" key="GridCell.Tab.0.bottom" timestamp="1583484753007">
       <screen x="43" y="23" width="1237" height="777" />
     </state>
-    <state width="1193" height="259" key="GridCell.Tab.0.bottom/43.23.1237.777@43.23.1237.777" timestamp="1582868749762" />
-    <state width="1193" height="259" key="GridCell.Tab.0.center" timestamp="1582868749760">
+    <state width="1193" height="259" key="GridCell.Tab.0.bottom/43.23.1237.777@43.23.1237.777" timestamp="1583484753007" />
+    <state width="1193" height="259" key="GridCell.Tab.0.center" timestamp="1583484753003">
       <screen x="43" y="23" width="1237" height="777" />
     </state>
-    <state width="1193" height="259" key="GridCell.Tab.0.center/43.23.1237.777@43.23.1237.777" timestamp="1582868749760" />
-    <state width="1193" height="259" key="GridCell.Tab.0.left" timestamp="1582868749760">
+    <state width="1193" height="259" key="GridCell.Tab.0.center/43.23.1237.777@43.23.1237.777" timestamp="1583484753003" />
+    <state width="1193" height="259" key="GridCell.Tab.0.left" timestamp="1583484753002">
       <screen x="43" y="23" width="1237" height="777" />
     </state>
-    <state width="1193" height="259" key="GridCell.Tab.0.left/43.23.1237.777@43.23.1237.777" timestamp="1582868749760" />
-    <state width="1193" height="259" key="GridCell.Tab.0.right" timestamp="1582868749761">
+    <state width="1193" height="259" key="GridCell.Tab.0.left/43.23.1237.777@43.23.1237.777" timestamp="1583484753002" />
+    <state width="1193" height="259" key="GridCell.Tab.0.right" timestamp="1583484753004">
       <screen x="43" y="23" width="1237" height="777" />
     </state>
-    <state width="1193" height="259" key="GridCell.Tab.0.right/43.23.1237.777@43.23.1237.777" timestamp="1582868749761" />
-    <state x="262" y="151" key="Vcs.Push.Dialog.v2" timestamp="1582861832425">
-      <screen x="42" y="23" width="1238" height="777" />
+    <state width="1193" height="259" key="GridCell.Tab.0.right/43.23.1237.777@43.23.1237.777" timestamp="1583484753004" />
+    <state x="263" y="151" key="Vcs.Push.Dialog.v2" timestamp="1583478674386">
+      <screen x="43" y="23" width="1237" height="777" />
     </state>
     <state x="262" y="151" key="Vcs.Push.Dialog.v2/42.23.1238.777@42.23.1238.777" timestamp="1582861832425" />
+    <state x="263" y="151" key="Vcs.Push.Dialog.v2/43.23.1237.777@43.23.1237.777" timestamp="1583478674386" />
   </component>
 </project>
